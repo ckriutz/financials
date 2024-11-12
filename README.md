@@ -2,6 +2,8 @@
 
 Welcome to the Financial Reporting Guide! This document will help you navigate and utilize the financial reporting file effectively. Let's get started!
 
+✔️ "Other Report" added that contains reporting information about the other data.
+
 ## Table of Contents
 1. *:umbrella: Introduction*
 2. *🚀 Getting Started*
